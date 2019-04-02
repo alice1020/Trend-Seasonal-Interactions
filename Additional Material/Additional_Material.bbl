@@ -1,0 +1,125 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+De~Boor%
+}{%
+De~Boor%
+}{%
+{\protect \APACyear {1978}}%
+}]{%
+de1978practical}
+\APACinsertmetastar {%
+de1978practical}%
+\begin{APACrefauthors}%
+De~Boor, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1978}.
+\newblock
+\APACrefbtitle {A practical guide to splines} {A practical guide to splines}\
+  (\BVOL~27).
+\newblock
+\APACaddressPublisher{}{Springer-Verlag New York}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duchon%
+}{%
+Duchon%
+}{%
+{\protect \APACyear {1977}}%
+}]{%
+duchon1977splines}
+\APACinsertmetastar {%
+duchon1977splines}%
+\begin{APACrefauthors}%
+Duchon, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1977}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Splines minimizing rotation-invariant semi-norms in
+  Sobolev spaces} {Splines minimizing rotation-invariant semi-norms in sobolev
+  spaces}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Constructive theory of functions of several variables}
+  {Constructive theory of functions of several variables}\ (\BPGS\ 85--100).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Geweke%
+\ \BBA {} Whiteman%
+}{%
+Geweke%
+\ \BBA {} Whiteman%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+geweke2006bayesian}
+\APACinsertmetastar {%
+geweke2006bayesian}%
+\begin{APACrefauthors}%
+Geweke, J.%
+\BCBT {}\ \BBA {} Whiteman, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian forecasting} {Bayesian forecasting}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Handbook of economic forecasting}{1}{}{3--80}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wood%
+}{%
+Wood%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+wood2003thin}
+\APACinsertmetastar {%
+wood2003thin}%
+\begin{APACrefauthors}%
+Wood, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Thin plate regression splines} {Thin plate regression
+  splines}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)}{65}{1}{95--114}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wood%
+}{%
+Wood%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+wood2006generalized}
+\APACinsertmetastar {%
+wood2006generalized}%
+\begin{APACrefauthors}%
+Wood, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Generalized additive models: an introduction with R}
+  {Generalized additive models: an introduction with r}.
+\newblock
+\APACaddressPublisher{}{CRC press}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
